@@ -1,3 +1,12 @@
+body {
+  background-color: aliceblue;
+  
+}
+
+div.paragraphs {
+  color: purple;
+}
+
 .sidebar {
   width: 200px;
   float: right;
@@ -11,7 +20,6 @@
 .songs {
   float:left;
   background-color: beige;
-  
 }
 
 img {
