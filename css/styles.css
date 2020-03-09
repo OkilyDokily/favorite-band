@@ -1,0 +1,10 @@
+.sidebar {
+  width: 200px;
+  float: right;
+  background-color: yellow;
+}
+
+.sidebar span {
+  color:red;
+}
+
