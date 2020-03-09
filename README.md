@@ -10,8 +10,7 @@ _A favorites band which demonstrates html and css basics including floats._
 
 ## Setup/Installation Requirements
 
-No installation necessary. 
-Go to https://okilydokily.github.io/cat-page/
+Clone this repo and click on the .html file
 
 ## Known Bugs
 
