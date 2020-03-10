@@ -8,9 +8,12 @@ div.paragraphs {
 }
 
 .sidebar {
+  border: black solid 2px;
   width: 200px;
   float: right;
   background-color: yellow;
+  padding: 3px;
+  margin: 5px;
 }
 
 .sidebar span {
@@ -24,4 +27,5 @@ div.paragraphs {
 
 img {
   float:left;
+  padding: 5px;
 }
