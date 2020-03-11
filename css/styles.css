@@ -29,3 +29,25 @@ img {
   float:left;
   padding: 5px;
 }
+
+@media screen and (max-width: 1000px) and (min-width:700px)   {
+ .sidebar {
+   float:left;
+ }
+ 
+}
+
+@media screen and  (max-width:480px) and (min-width:300px)  {
+  .songs {
+    float:right;
+  }
+  img {
+    float:right;
+  }
+  p {font-size: 30px;}
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
